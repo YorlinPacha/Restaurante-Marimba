@@ -1,4 +1,5 @@
 🍽️ Sistema de Administración de Contenidos para Restaurante 🍴
+
 ¡Bienvenidos al repositorio de nuestro sistema de administración de contenidos para restaurantes! Este proyecto permite a los administradores de un restaurante gestionar la información de su sitio web de manera sencilla y eficiente. 🛠️
 
 📋 Descripción del Proyecto
